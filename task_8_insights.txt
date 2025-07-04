@@ -1,0 +1,6 @@
+Sales Dashboard Insights
+
+1. West region had the highest total sales in Q3.
+2. Technology category contributed the most to total sales.
+3. Sales peaked in December 2023, indicating strong year-end performance.
+4. The South region had the lowest sales, but showed consistent monthly growth.
